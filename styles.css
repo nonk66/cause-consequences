@@ -22,3 +22,12 @@ h2 {
 .title {
     margin-top: 30px;
 }
+
+th {
+    font-size: 120%;
+}
+
+a {
+    color: olive;
+    font-weight: 600;
+}

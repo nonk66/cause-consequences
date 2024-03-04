@@ -31,3 +31,15 @@ a {
     color: olive;
     font-weight: 600;
 }
+
+#back {
+    margin: 50px;
+    font-size: 300%;
+    color:black
+}
+
+p {
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+}
